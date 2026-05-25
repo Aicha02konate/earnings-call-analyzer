@@ -8,9 +8,13 @@ This project analyzes the sentiment of Apple earnings call transcripts and compa
 - NLTK (VADER Sentiment Analysis)
 - Pandas
 - Matplotlib
+<<<<<<< HEAD
 - yfinance(real Apple stock data)
+=======
+- yfinance (real Apple stock data)
+>>>>>>> ac55b5e (Fix REAdME formatting)
 
-## What is does
+## What it does
 1. Takes real excerpts from Apple quarter earnings calls
 2. Analyzes the sentiment of each excerpt (positive, negative, neutral)
 3. Fetches real Apple stock price changes from Yahoo Finance
