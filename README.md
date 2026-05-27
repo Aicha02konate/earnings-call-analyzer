@@ -18,6 +18,8 @@ This project analyzes the sentiment of Apple earnings call transcripts and compa
 
 ## Key Finding
 Positive sentiment in earnings calls does not always predict stock gains. In Q3 2023, despite high sentiment score (0.69) , the stock decline. this suggest that market expectations and broader context matter beyond CEO language alone
+## Results
+![Sentiment chart](sentiment_chart.png)
 
 ## Limitation
 VADER does not always capture financial jargon accurately. Words like "Headwinds" are not scored as negative despite their meaning in a financial context.
